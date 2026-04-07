@@ -25,3 +25,12 @@ npm run dev
 git add README.md
 git commit -m "docs: adiciona README do projeto"
 git push
+
+
+## 📸 Screenshots
+
+![Home](./image/Home.png)
+![Eventos](./image/Eventos.png)
+![Detalhe](./image/Evento-Detalhe.png)
+![Favoritos](./image/Favoritos.png)
+![Perfil](./image/Perfil.png)
