@@ -15,11 +15,15 @@ Aplicativo desenvolvido com Ionic + Vue para visualização de eventos.
 
 ## 📸 Screenshots
 
+https://github.com/user-attachments/assets/54a73f75-8b3d-4df7-9bff-c85943360b40
+
 ![Home](./image/Home.png)
 ![Eventos](./image/Eventos.png)
 ![Detalhe](./image/Evento-Detalhe.png)
 ![Favoritos](./image/Favoritos.png)
 ![Perfil](./image/Perfil.png)
+
+
 
 ## ▶️ Como rodar
 ```bash
